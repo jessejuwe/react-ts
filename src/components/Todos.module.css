@@ -1,0 +1,15 @@
+.todos {
+  margin: auto;
+  width: inherit;
+}
+
+.todos ul {
+  list-style-type: none;
+  width: 100%;
+  margin: auto;
+  margin-left: -2.5em;
+}
+
+.todos li:hover {
+  background-color: #ebc002;
+}
